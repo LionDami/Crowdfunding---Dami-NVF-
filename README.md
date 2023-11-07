@@ -12,3 +12,10 @@
 - Final Presentation materials to be uploaded to Moodle
 
 ## What is Crowdfunding?
+Crowdfunding is the use of small amounts of capital from a large number of individuals to finance a new business venture. Crowdfunding makes use of the easy accessibility of vast networks of people through social media and crowdfunding websites to bring investors and entrepreneurs together, with the potential to increase entrepreneurship by expanding the pool of investors beyond the traditional circle of owners, relatives, and venture capitalists.
+
+## Crowdfunding Business Campaign
+
+### Suitable Types Crowdfunding 
+**Reflect**
+- This type of crowdfunding done by startup companies looking to bring a product or service into the world and by individuals who experienced some type of emergency.
