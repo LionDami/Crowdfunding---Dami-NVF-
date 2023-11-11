@@ -14,7 +14,7 @@
 ## What is Crowdfunding?
 Crowdfunding is the use of small amounts of capital from a large number of individuals to finance a new business venture. Crowdfunding makes use of the easy accessibility of vast networks of people through social media and crowdfunding websites to bring investors and entrepreneurs together, with the potential to increase entrepreneurship by expanding the pool of investors beyond the traditional circle of owners, relatives, and venture capitalists.
 
-## Crowdfunding Business Campaign - AquaGlow Lantern: The Ultimate Saltwater-Powered Illumination Solution!
+## AquaGlow Lantern: The Ultimate Saltwater-Powered Illumination Solution!
 Traditional power sources are out of style! The AquaGlow Lantern uses seawater's power to create an environmentally responsible and long-lasting light source. However, it's more than just a lantern, it's a multipurpose tool made for today's adventurer! 
 ### 🌟Key Features
 **1. Saltwater-Powered Technology:**
