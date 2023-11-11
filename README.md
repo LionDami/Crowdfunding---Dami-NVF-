@@ -41,8 +41,10 @@ Traditional power sources are out of style! The AquaGlow Lantern uses seawater's
 **1. Sustainbility:**
 - Reducing the environmental impact with saltwater-powered technology.
 - Promoting eco-friendly alternatives for a greener future. <br>
+
 **2. Multi-Utility:**
 - 3 devices in 1, multipurpose product, save sapce and weight you in your backpack <br>
+
 **3. Research & Development Invetment**
 - Your support will fund ongoing research and development for future success of AquaGlow Lantern product.
 ### 💡Suppot Tiers
