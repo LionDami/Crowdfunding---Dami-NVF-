@@ -85,8 +85,20 @@ Work with reliable suppliers, manufacturers and distrubutors to handle shipping 
 - Explore new sustainable technologies for future products.
 ### 5. Scope Creep/ Managment (€2,000):
 - Plan for unforeseen challenges or additional expenses.
-- Ensure that the campaign runs smoothly from start to finish.
+- Ensure that the campai
+Your support, at any level, will help us bring AquaGlow Lantern to market and contribute to a more sustainable future. Let's light up the world together!gn runs smoothly from start to finish.
+## Identify the benefits and risks of your approach
+### 👍Pros of reward-based crowdfunding:
+- **No equity sacrificed:** Reward-based crowdfunding does not require you to give up ownership of your business, in contrast to equity-based crowdfunding.
+- **Market validation:** Using reward-based crowdfunding, you can gauge how interested the market is in your offering. A successful campaign indicates that there is a market for what you're selling.
+- **Pre-sales and marketing:** Crowdfunding campaigns can also serve as a product pre-sale, bringing in media attention and serving as a source of initial customers.
+- **Community building:** Platforms for crowdfunding give users an opportunity to interact and communicate with backers. By doing this, you may cultivate a network of advocates who could aid in promoting your good or service. [2]
+### 👎Cons of reward-based crowdfunding:
+- **All-or-nothing funding:** Many crowdfunding sites work on an all-or-nothing model, meaning you lose money if you don't meet your funding target. Although it's not always the case, this is typical.
+- **Fulfilling rewards:** It's critical to fulfil rewards commitments, even if they take longer or cost more than expected. Rewards that are not fulfilled may cause reputational harm or even give supporters cause to request a refund of their money.
+- **Public exposure:** Since it's public knowledge, there's a chance someone else will steal your idea. The necessity for publicity and the danger of disclosing too much must be balanced.
+- **Fees:** A portion of the money raised is normally the fee charged by crowdfunding platforms, and there may be additional processing costs. [2] 
   
-## References
+## 🔗References
 [1] T. Smith, “Crowdfunding: what it is, how it works, and popular websites,” Investopedia, Oct. 06, 2023. https://www.investopedia.com/terms/c/crowdfunding.asp#:~:text=Crowdfunding%20is%20a%20way%20for,they%20are%20allowed%20to%20contribute. <br>
 [2] “Types of crowdfunding for startups: Four types to know | Stripe.” https://stripe.com/en-ie/resources/more/four-types-of-crowdfunding-for-startups-and-how-to-choose-one
