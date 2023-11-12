@@ -68,22 +68,22 @@ In equity crowdfunding, supporters receive ownership stakes or shares in the bus
 
 In conclusion considering both types of crowdfunding, Reward-Based Crowdunding is the better option given the nature of the product and the desire to involve a larger audience. this will encourage support at various levels with corresponding rewards. 
 
-## 🖖Help Us Raise €50,000 to Illuminate the Future!
+## 🖖Help Us Raise €900 to Illuminate the Future!
 Contribue and help us bring the AquaGlow Lantern to life, we need your support to make it happen!. Our crowfunding goal is set at €50,000, below is our plan on how we will exuceute the inception to excution with the funds.
-### 1. Product Development and Manufacturing (€25,000):
+### 1. Product Development and Manufacturing (€400):
 - Further refine the saltwater-powered technology.
 - Conduct testing to ensure durability and efficiency.
 - Initiate mass production to meet the demand.
-### 2. Marketing and Outreach (€10,000):
+### 2. Marketing and Outreach (€100):
 - Create engaging content to spread awareness about AquaGlow Lantern.
 - Implement targeted marketing campaigns to reach outdoor enthusiasts, eco-conscious consumers, and the general public.
-### 3. Supply Chain Distribution (€8,000):
+### 3. Supply Chain Distribution (€200):
 Set up an efficient supply chain network to ensure timely delivery of rewards.
 Work with reliable suppliers, manufacturers and distrubutors to handle shipping logistics.
-### 4. Research and Development for Future Projects (€5,000):
+### 4. Research and Development for Future Projects (€100):
 - Allocate funds for ongoing research and development.
 - Explore new sustainable technologies for future products.
-### 5. Scope Creep/ Managment (€2,000):
+### 5. Scope Creep/ Managment (€100):
 - Plan for unforeseen challenges or additional expenses.
 - Ensure that the campai
 Your support, at any level, will help us bring AquaGlow Lantern to market and contribute to a more sustainable future. Let's light up the world together!gn runs smoothly from start to finish.
